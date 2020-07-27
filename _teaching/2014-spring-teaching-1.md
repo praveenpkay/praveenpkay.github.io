@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Graduate Course - Python Programming Essentials"
 venue: "University of Washington, Foster School of Business"
