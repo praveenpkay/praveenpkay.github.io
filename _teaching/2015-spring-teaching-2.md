@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Professional Course - [Foundations of Programming, Python]"
+venue: "University of Washington, [Continuum College](https://www.continuum.uw.edu/)"
+date: 2020-01-01
+location: "Seattle, USA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
