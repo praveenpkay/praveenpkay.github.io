@@ -12,7 +12,7 @@ I am a Master's Student at the [University of Washington](https://www.washington
 
 Education
 -----
-<img align="left" height="100" width="150" src="../images/UW_Logo3.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/UW_Logo3.jpg" style="padding-right:15px">
 
 **Master of Science (MS) in Information Management, University of Washington**
 #### September 2019 - Present
@@ -20,9 +20,9 @@ Education
 I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br>
 <strong>CGPA: </strong> 3.82/4.0 <br>
 <strong>Relevant coursework:</strong>
-* <strong>Fall'19: </strong>Foundations of Data Science  <br>
-* <strong>Winter'20: </strong>Machine Learning and Econometrics, Relational Database Management Systems <br>
-* <strong>Spring'20: </strong>Scaling and Applications in Data Science, Business Intelligence Systems, Research and Analysis for Information Management Professionals <br>
+* <strong>Fall '19: </strong>Foundations of Data Science  <br>
+* <strong>Winter '20: </strong>Machine Learning and Econometrics, Relational Database Management Systems <br>
+* <strong>Spring '20: </strong>Scaling and Applications in Data Science, Business Intelligence Systems, Research and Analysis for Information Management Professionals <br>
 
 -----
 <img align="left" height="100" width="100" src="../images/somaiya.png" style="padding-right:15px">
