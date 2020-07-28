@@ -37,7 +37,7 @@ I completed my Undergraduate Degree in Computer Science from the University of M
 
 Experience
 -----
-<img align="left" height="100" width="180" src="../images/logos/ciera.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
 
 **Software Engineering Intern, TerraClear Inc.** 
 #### June 2020 - Present 
