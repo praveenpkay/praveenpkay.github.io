@@ -22,7 +22,7 @@ author_profile: true
 **[Spring 2020] Graduate Teaching Assistant - Introduction to Programming for Data Science**
 
 -----
-*	Worked with [Prof. Joel Ross](https://www.linkedin.com/in/joel-ross-9192a31b/) at the University of Washington - [Information School](https://ischool.uw.edu/) for the course IMT 511uw
+*	Worked with [Prof. Joel Ross](https://www.linkedin.com/in/joel-ross-9192a31b/) at the University of Washington - [Information School](https://ischool.uw.edu/) for the course IMT 511
 
 -----
 **[Winter 2020] Graduate Teaching Assistant - Foundations of Programming: Python**
