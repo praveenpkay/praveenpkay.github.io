@@ -10,6 +10,7 @@ author_profile: true
 
 -----
 *	Working with [Prof. Randal Root](https://www.linkedin.com/in/randalroot/) at the University of Washington - [Continuum College](https://www.continuum.uw.edu/) for the course IT FDN 110
+
 -----
 
 **[Spring 2020] Graduate Teaching Assistant - Machine Learning Methods and AI**
