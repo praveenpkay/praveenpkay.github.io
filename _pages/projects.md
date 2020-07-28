@@ -103,3 +103,15 @@ Here is the - [Github Repo](https://github.com/aayush1909/AccuWater)
 Here is the - [Github Repo](https://github.com/aayush1909/Stock-Market-Forecasting)
 
 -----
+<img align="left" height="100" width="100" src="../images/stock_market.jpg" style="padding-right:15px">
+
+**Machine Learning Engineer, Breaking CAPTCHA using CNN**
+#### August 2018 - May 2019 | Mumbai, India
+
+-----
+*	Tested the robustness of a CAPTCHA generator using CAPTCHA’s drawn in a convoluted way
+*	Implemented CNN for alphabet/digit recognition which was able to break the CAPTCHA generator exposing security risks <br>
+
+Here is the - [Github Repo](https://github.com/aayush1909/Breaking-Captcha-Using-Machine-Learning)
+
+-----
