@@ -106,7 +106,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Stock-Market-Forecasti
 <img align="left" height="100" width="100" src="../images/captcha.png" style="padding-right:15px">
 
 **Machine Learning Engineer, Breaking CAPTCHA using CNN**
-#### August 2018 - May 2019 | Mumbai, India
+#### October 2017 - November 2017 | Mumbai, India
 
 -----
 *	Tested the robustness of a CAPTCHA generator using CAPTCHA’s drawn in a convoluted way
