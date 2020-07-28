@@ -18,5 +18,6 @@ redirect_from:
 *	Implemented an XGBoost Classifier using AWS SageMaker on a custom 15 million dataset uploaded to an S3 bucket
 *	Scaled the product to 1,000,000+ predictions per minute through AWS Lambda <br>
 
-[Github Repo](https://github.com/aayush1909/DGA-or-Benign)
+Here is the - [Github Repo](https://github.com/aayush1909/DGA-or-Benign)
+
 -----
