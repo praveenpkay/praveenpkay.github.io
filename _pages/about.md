@@ -18,7 +18,7 @@ I am a Master's Student at the [University of Washington](https://www.washington
 <strong> Databases: </strong> MySQL, PostreSQL, T-SQL, MongoDB, SSMS, SSIS <br>
 <strong> Visualization Tools: </strong> Tableau, PowerBI, Qlikview <br>
 <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
-<strong> Tools: </strong> Amazon Web Services (AWS), Jira, Git, MS Excel <br>
+<strong> Tools: </strong> AWS SageMaker, AWS Lambda, AWS EC2, AWS API Gateway, Jira, Git, MS Excel <br>
   
 ----
 
