@@ -10,18 +10,6 @@ redirect_from:
 
 I am a Master's Student at the [University of Washington](https://www.washington.edu/) majoring in Data Science. Currently, I am working at [TerraClear Inc.](https://www.terraclear.com/) as a Software Engineering Intern with the Computer Vision and Artificial Intelligence team. I have a Bachelor in Technology (B.Tech) degree in Computer Science from the University of Mumbai - [K.J Somaiya College of Engineering](https://kjsce.somaiya.edu/en), India. Owing to my prior coursework, academic projects and industry experiences, I now have over 3 years of experience in Software Development, Machine Learning and Analytics. I bring to the table a blend of technical, aptitude and problem-solving skills.
 
-# Key Skills
-----
-<strong> Programming Languages: </strong> Python, R, Java, HTML5, CSS3, C, Javascript <br>
-<strong> Operating Systems: </strong> Windows, Linux, Ubuntu <br>
-<strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, Caret, Ggplot <br>
-<strong> Databases: </strong> MySQL, PostreSQL, T-SQL, MongoDB, SSMS, SSIS <br>
-<strong> Visualization Tools: </strong> Tableau, PowerBI, Qlikview <br>
-<strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
-<strong> Tools: </strong> AWS SageMaker, AWS Lambda, AWS EC2, AWS API Gateway, Jira, Git, MS Excel <br>
-  
-----
-
 # Education
 -----
 <img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
@@ -84,3 +72,15 @@ I completed my Undergraduate Degree in Computer Science from the University of M
 -----
 *	Researched the various pedagogical trends to understand the willingness of schools to add 3D printing to their curriculum 
 *	Re-designed the database of the top schools willing to participate in this program and improved the data quality by 17%
+
+# Key Skills
+----
+<strong> Programming Languages: </strong> Python, R, Java, HTML5, CSS3, C, Javascript <br>
+<strong> Operating Systems: </strong> Windows, Linux, Ubuntu <br>
+<strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, Caret, Ggplot <br>
+<strong> Databases: </strong> MySQL, PostreSQL, T-SQL, MongoDB, SSMS, SSIS <br>
+<strong> Visualization Tools: </strong> Tableau, PowerBI, Qlikview <br>
+<strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
+<strong> Tools: </strong> AWS SageMaker, AWS Lambda, AWS EC2, AWS API Gateway, Jira, Git, MS Excel <br>
+  
+----
