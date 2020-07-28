@@ -11,7 +11,7 @@ redirect_from:
 <img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
 
 **Data Scientist, ML-Driven DNS Malware Detection System**
-#### March 2020 - June 2020 
+#### March 2020 - June 2020 | Seattle, USA
 
 -----
 *	Developed and deployed RESTful APIs using AWS API Gateway to predict fully qualified domain names as DGA or Benign
