@@ -48,7 +48,7 @@ Experience
 * Targeting to reduce the manual efforts of the CV-AI team on data processing of RGB and Multispectral images by over 60% 
 
 -----
-<img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/Puratech.png" style="padding-right:15px">
 
 **Data Analyst Intern, Puratech Solutions**
 #### June 2018 - August 2018  
@@ -59,7 +59,7 @@ Experience
 *	Analyzed customer data using R to gain insights on customer behavior, increasing the customer retention rate by 9%
 
 -----
-<img align="left" height="100" width="100" src="../images/logos/kj.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
 
 **Digital Analyst Intern, Greymeter** 
 #### December 2015 to January 2016
@@ -69,7 +69,7 @@ Experience
 *	Used Marketing Analytics, Google Analytics to increase the likes on social media platforms by 58% in a month
 
 -----
-<img align="left" height="100" width="100" src="../images/logos/accelo.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/3DcreatR.jpg" style="padding-right:15px">
 
 **Marketing Research Analyst Intern, 3DcreatR** 
 #### July 2015 to August 2015
