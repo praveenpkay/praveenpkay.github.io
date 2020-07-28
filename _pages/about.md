@@ -16,7 +16,6 @@ I am a Master's Student at the [University of Washington](https://www.washington
 
 **Master of Science (MS) in Information Management, University of Washington**
 #### September 2019 - Present
-#### Seattle, USA
 -----
 I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br>
 <strong>CGPA: </strong> 3.82/4.0 <br>
@@ -30,7 +29,6 @@ I am currently pursuing my Graduate Degree in Information Management from the Un
 
 **Bachelor of Technology (B.Tech) in Computer Science, University of Mumbai**
 #### 2015 - 2019 
-#### Mumbai, India
 -----
 I completed my Undergraduate Degree in Computer Science from the University of Mumbai - K.J Somaiya College of Engineering in 2019.
 <br>
@@ -43,8 +41,6 @@ Experience
 
 **Software Engineering Intern, TerraClear Inc.** 
 #### June 2020 - Present 
-#### Seattle, USA
-
 ----- 
 * Interacting with cross-functional teams to gather requirements, analyzed business challenges to design the automation of the Ground Truth Data Pipeline process fed into the Neural Network Models
 * Targeting to reduce the manual efforts of the CV-AI team on data processing of RGB and Multispectral images by over 60% 
@@ -54,8 +50,6 @@ Experience
 
 **Data Analyst Intern, Puratech Solutions**
 #### June 2018 - August 2018  
-#### Mumbai, India
-
 -----
 *	Designed processes to collect consumer and demographic data of customers by scraping websites and storing them in databases
 *	Analyzed customer data using R to gain insights on customer behavior, increasing the customer retention rate by 9%
@@ -65,7 +59,6 @@ Experience
 
 **Digital Analyst Intern, Greymeter** 
 #### December 2015 to January 2016
-#### Mumbai, India
 -----
 *	Re-engineered area-specific social media campaigns by analyzing student performance and collecting it in Excel
 *	Used Marketing Analytics, Google Analytics to increase the likes on social media platforms by 58% in a month
@@ -75,7 +68,6 @@ Experience
 
 **Marketing Research Analyst Intern, 3DcreatR** 
 #### July 2015 to August 2015
-#### Mumbai, India
 -----
 *	Researched the various pedagogical trends to understand the willingness of schools to add 3D printing to their curriculum 
 *	Re-designed the database of the top schools willing to participate in this program and improved the data quality by 17%
