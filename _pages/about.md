@@ -14,29 +14,26 @@ Education
 -----
 <img align="left" height="100" width="150" src="../images/logos/UW_Logo.png" style="padding-right:15px">
 
-**Master's in Computer Science, Northwestern University**
+**Master of Science (MS) in Information Management, University of Washington**
 #### September 2019 - Present
 -----
-I am currently doing my Master's in Computer Science from Northwestern University. <br>
-<strong>CGPA: </strong> 4.0/4.0 <br>
-<strong>Coursework:</strong>
-* <strong>Fall'19: </strong>CS349-Machine Learning, DS421-Statistics, CS496-Data Science Seminar, CS348-Intro to AI  <br>
-* <strong>Winter'20: </strong>CS496-Advanced Deep Learning, EE435-Deep Learning Foundations <br>
-* <strong>Spring'20: </strong>CS397-Statistical Language Modeling, CS336-Algorithms
-
-<strong>Labs/Reading Groups: </strong>Research in Automated Listening Methods Lab, Modern Artificial General Intelligence and Computer Systems Lab, AI Journal Club
+I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br>
+<strong>CGPA: </strong> 3.82/4.0 <br>
+<strong>Relevant coursework:</strong>
+* <strong>Fall'19: </strong>Foundations of Data Science  <br>
+* <strong>Winter'20: </strong>Machine Learning and Econometrics, Relational Database Management Systems <br>
+* <strong>Spring'20: </strong>Scaling and Applications in Data Science, Business Intelligence Systems, Research and Analysis for Information Management Professionals <br>
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/somaiya.png" style="padding-right:15px">
 
-**B.Tech in Computer Engineering, K.J Somaiya College of Engineering**
+**Bachelor of Technology (B.Tech) in Computer Science, University of Mumbai**
 #### 2015 - 2019 
 -----
-I did my Bachelor of Technology in Computer Engineering from K.J Somaiya College of Engineering. 
+I completed my Undergraduate Degree in Computer Science from the University of Mumbai - K.J Somaiya College of Engineering in 2019.
 <br>
-<strong>CGPA:</strong> 8.99/10 <br> 
-<strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning (Topper), Neural Nets, Image Analysis (Topper), Fundamentals of Programming (10/10, AP), Data Structures, Algorithms, Computer Architecture (10/10), Operating Systems (Topper) <br>
-<strong>Activities: </strong>Computer Society of India  
+  <strong>CGPA:</strong> 3.7/4.0 <br> 
+<strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning, Big Data Analytics, Data Warehousing and Mining, Neural Networks and Fuzzy Logic, Image Analysis, Introduction to Business Intelligence, Fundamentals of Programming, Data Structures, Analysis of Algorithms, Operating Systems, Object Oriented Programming, Applied Mathematics <br>
 
 Experience
 -----
