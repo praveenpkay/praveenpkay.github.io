@@ -13,7 +13,13 @@ I am a Master's Student at the [University of Washington](https://www.washington
 # Key Skills
 ----
 <strong> Programming Languages: </strong> Python, R, Java, HTML5, CSS3, C, Javascript
-
+<strong> Operating Systems: </strong> Windows, Linux, Ubuntu
+<strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, Caret, Ggplot
+<strong> Databases: </strong> MySQL, PostreSQL, T-SQL, MongoDB, SSMS, SSIS
+<strong> Visualization Tools: </strong> Tableau, PowerBI
+<strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA
+<strong> Tools: </strong> Amazon Web Services (AWS), Jira, Git, MS Excel
+  
 ----
 
 # Education
