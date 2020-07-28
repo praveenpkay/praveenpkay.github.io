@@ -12,7 +12,7 @@ I am a Master's Student at the [University of Washington](https://www.washington
 
 Education
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo3.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
 
 **Master of Science (MS) in Information Management, University of Washington**
 #### September 2019 - Present
