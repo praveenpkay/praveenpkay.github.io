@@ -16,7 +16,7 @@ I am a Master's Student at the [University of Washington](https://www.washington
 <strong> Operating Systems: </strong> Windows, Linux, Ubuntu <br>
 <strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, Caret, Ggplot <br>
 <strong> Databases: </strong> MySQL, PostreSQL, T-SQL, MongoDB, SSMS, SSIS <br>
-<strong> Visualization Tools: </strong> Tableau, PowerBI <br>
+<strong> Visualization Tools: </strong> Tableau, PowerBI, Qlikview <br>
 <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
 <strong> Tools: </strong> Amazon Web Services (AWS), Jira, Git, MS Excel <br>
   
