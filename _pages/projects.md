@@ -115,7 +115,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Stock-Market-Forecasti
 Here is the - [Github Repo](https://github.com/aayush1909/Breaking-Captcha-Using-Machine-Learning)
 
 -----
-<img align="left" height="100" width="100" src="../images/captcha.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/playstore.png" style="padding-right:15px">
 
 **Data Scientist, App Rating Prediction**
 #### January 2019 | Mumbai, India
@@ -127,7 +127,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Breaking-Captcha-Using
 Here is the - [Github Repo](https://github.com/aayush1909/App-Rating-Prediction)
 
 -----
-<img align="left" height="100" width="100" src="../images/captcha.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/topic_modeling.jpeg" style="padding-right:15px">
 
 **Machine Learning Engineer, Extracting Main Topic from a Document**
 #### March 2019 | Mumbai, India
@@ -139,7 +139,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/App-Rating-Prediction)
 Here is the - [Github Repo](https://github.com/aayush1909/Extracting-main-topics-using-LDA)
 
 -----
-<img align="left" height="100" width="100" src="../images/captcha.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/hospital.jpg" style="padding-right:15px">
 
 **Web Developer, Hospital Management System**
 #### July 2017 to November 2017 | Mumbai, India
