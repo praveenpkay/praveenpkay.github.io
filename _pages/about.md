@@ -39,50 +39,41 @@ Experience
 -----
 <img align="left" height="100" width="180" src="../images/logos/ciera.jpg" style="padding-right:15px">
 
-**Researcher, CIERA** 
+**Software Engineering Intern, TerraClear Inc.** 
 #### June 2020 - Present 
+#### Seattle, USA
 
 ----- 
-I am a part of [Prof. Vicky Kalogera's](https://ciera.northwestern.edu/directory/vicky-kalogera/){:target="_blank"} Research Group and I will be responsible for developing Machine Learning algorithms and applying ML across different projects. 
+* Interacting with cross-functional teams to gather requirements, analyzed business challenges to design the automation of the Ground Truth Data Pipeline process fed into the Neural Network Models
+* Targeting to reduce the manual efforts of the CV-AI team on data processing of RGB and Multispectral images by over 60% 
 
 -----
 <img align="left" height="100" width="150" src="../images/logos/NWU.png" style="padding-right:15px">
 
-**Graduate Research Assistant, Northwestern University**
-#### January 2020 - June 2020  
+**Data Analyst Intern, Puratech Solutions**
+#### June 2018 - August 2018  
+#### Mumbai, India
 
 -----
-**Advisor:** [Prof. Prem Seetharaman](https://pseeth.github.io/){:target="_blank"} <br>
-We developed OtoWorld, an interactive environment for training reinforcement learning agents for the task of audio separation. The environment is designed to facilitate reinforcement learning research in computer audition. <br>
-**Git repository:** [OtoWorld](https://github.com/pseeth/otoworld){:target="_blank"} <br>
-**Paper Submission:** [TBD]   
+*	Designed processes to collect consumer and demographic data of customers by scraping websites and storing them in databases
+*	Analyzed customer data using R to gain insights on customer behavior, increasing the customer retention rate by 9%
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/kj.jpg" style="padding-right:15px">
 
-**Deep Learning Intern, K.J Somaiya College of Engineering** 
-#### January 2018 to April 2018
+**Digital Analyst Intern, Greymeter** 
+#### December 2015 to January 2016
+#### Mumbai, India
 -----
-**Advisor:** [Prof. Grishma Sharma](https://kjsce.somaiya.edu/en/view-member/160102?type=faculty){:target="_blank"} <br>
-Researched different methodologies of k-shot learning for facial recognition system. We developed a facial recognition system which can be trained on a small number of samples (k samples) to perform fast and accurate recognition of faces. The link to the paper can be found [here.](https://www.ijcaonline.org/archives/volume181/number18/29966-2018917871){:target="_blank"}
+*	Re-engineered area-specific social media campaigns by analyzing student performance and collecting it in Excel
+*	Used Marketing Analytics, Google Analytics to increase the likes on social media platforms by 58% in a month
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/accelo.jpg" style="padding-right:15px">
 
-**Machine Learning Intern, Accelo Innovation** 
-#### August 2017 to October 2017
+**Marketing Research Analyst Intern, 3DcreatR** 
+#### July 2015 to August 2015
+#### Mumbai, India
 -----
-Accelo Innovation is a tech startup working in the segment of accident reduction and assistance. As a machine learning intern, I worked on the following: 
-* Designing of lane detection, object detection and depth mapping modules 
-* Integration of the modules with a CNN model to create a usable API 
-
------
-<img align="left" height="100" width="100" src="../images/logos/csi.png" style="padding-right:15px">
-
-**Computer Society of India, KJSCE Student's Chapter** 
-#### March 2016 to July 2017
------
-I worked as a first year representative at [CSI](http://csikjsce.org/){:target="_blank"} from March 2016 to July 2016. As a first year representative, I was responsible for managing different technical events and seminars conducted by CSI. Then, I worked as a second year representative from July 2016 to July 2017. As a second year representative, I was more involved and I performed the following activities: 
-* Created technical content for workshops and coding questions for competitions 
-* Taught in workshops like Machine Learning and Crytography 
-* Managed 20+ events and seminars 
+*	Researched the various pedagogical trends to understand the willingness of schools to add 3D printing to their curriculum 
+*	Re-designed the database of the top schools willing to participate in this program and improved the data quality by 17%
