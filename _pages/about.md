@@ -36,7 +36,7 @@ I completed my Undergraduate Degree in Computer Science from the University of M
 <strong>CGPA:</strong> 3.7/4.0 <br> 
 <strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning, Big Data Analytics, Data Warehousing and Mining, Neural Networks and Fuzzy Logic, Image Analysis, Introduction to Business Intelligence, Fundamentals of Programming, Data Structures, Analysis of Algorithms, Operating Systems, Object Oriented Programming, Applied Mathematics <br>
 
-Experience
+# Experience
 -----
 <img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
 
