@@ -103,7 +103,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/AccuWater)
 Here is the - [Github Repo](https://github.com/aayush1909/Stock-Market-Forecasting)
 
 -----
-<img align="left" height="100" width="100" src="../images/stock_market.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/captcha.png" style="padding-right:15px">
 
 **Machine Learning Engineer, Breaking CAPTCHA using CNN**
 #### August 2018 - May 2019 | Mumbai, India
