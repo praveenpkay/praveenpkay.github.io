@@ -16,6 +16,7 @@ I am a Master's Student at the [University of Washington](https://www.washington
 
 **Master of Science (MS) in Information Management, University of Washington**
 #### September 2019 - Present
+#### Seattle, USA
 -----
 I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br>
 <strong>CGPA: </strong> 3.82/4.0 <br>
@@ -29,6 +30,7 @@ I am currently pursuing my Graduate Degree in Information Management from the Un
 
 **Bachelor of Technology (B.Tech) in Computer Science, University of Mumbai**
 #### 2015 - 2019 
+#### Mumbai, India
 -----
 I completed my Undergraduate Degree in Computer Science from the University of Mumbai - K.J Somaiya College of Engineering in 2019.
 <br>
