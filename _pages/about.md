@@ -40,7 +40,7 @@ I completed my Undergraduate Degree in Computer Science from the University of M
 -----
 <img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
 
-**Software Engineering Intern, TerraClear Inc.** 
+**Software Engineering Intern, [TerraClear Inc.](https://www.terraclear.com/)** 
 #### June 2020 - Present 
 ----- 
 * Interacting with cross-functional teams to gather requirements, analyzed business challenges to design the automation of the Ground Truth Data Pipeline process fed into the Neural Network Models
