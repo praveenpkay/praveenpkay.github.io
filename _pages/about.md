@@ -58,7 +58,7 @@ I completed my Undergraduate Degree in Computer Science from the University of M
 -----
 <img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
 
-**Digital Analyst Intern, [Greymeter]** 
+**Digital Analyst Intern, [Greymeter](https://aayush1909.github.io/)** 
 #### December 2015 to January 2016
 -----
 *	Re-engineered area-specific social media campaigns by analyzing student performance and collecting it in Excel
