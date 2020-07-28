@@ -18,7 +18,7 @@ I am a Master's Student at the [University of Washington](https://www.washington
 #### September 2019 - Present 
 
 -----
-I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br>
+I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br> <br>
 <strong>CGPA: </strong> 3.82/4.0 <br>
 <strong>Relevant coursework:</strong>
 * <strong>Fall '19: </strong>Foundations of Data Science  <br>
@@ -32,9 +32,8 @@ I am currently pursuing my Graduate Degree in Information Management from the Un
 #### 2015 - 2019 
 
 -----
-I completed my Undergraduate Degree in Computer Science from the University of Mumbai - K.J Somaiya College of Engineering in 2019.
-<br>
-  <strong>CGPA:</strong> 3.7/4.0 <br> 
+I completed my Undergraduate Degree in Computer Science from the University of Mumbai - K.J Somaiya College of Engineering in 2019. <br> <br>
+<strong>CGPA:</strong> 3.7/4.0 <br> 
 <strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning, Big Data Analytics, Data Warehousing and Mining, Neural Networks and Fuzzy Logic, Image Analysis, Introduction to Business Intelligence, Fundamentals of Programming, Data Structures, Analysis of Algorithms, Operating Systems, Object Oriented Programming, Applied Mathematics <br>
 
 Experience
