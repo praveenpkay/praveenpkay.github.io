@@ -115,3 +115,27 @@ Here is the - [Github Repo](https://github.com/aayush1909/Stock-Market-Forecasti
 Here is the - [Github Repo](https://github.com/aayush1909/Breaking-Captcha-Using-Machine-Learning)
 
 -----
+<img align="left" height="100" width="100" src="../images/captcha.png" style="padding-right:15px">
+
+**Data Scientist, App Rating Prediction**
+#### January 2019 | Mumbai, India
+
+-----
+* Developed a Google Apps rating predictor using machine learning algorithms with the best performing error rate of 0.13
+* Evaluated the performance using Root Mean Squared Error, R-squared error, Residual Standard Error and Mean Absolute Error <br>
+
+Here is the - [Github Repo](https://github.com/aayush1909/App-Rating-Prediction)
+
+-----
+<img align="left" height="100" width="100" src="../images/captcha.png" style="padding-right:15px">
+
+**Machine Learning Engineer, Extracting Main Topic from a Document**
+#### March 2019 | Mumbai, India
+
+-----
+* Preprocessed the raw document using tokenization, lemmatization and stemming
+* Implemented Latent Dirichlet Allocation (Natural Language Processing) to extract the main topics from the document <br>
+
+Here is the - [Github Repo](https://github.com/aayush1909/Extracting-main-topics-using-LDA)
+
+-----
