@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/malware_detection.jpg" style="padding-right:15px">
 
 **Data Scientist, ML-Driven DNS Malware Detection System**
 #### March 2020 - June 2020 | Seattle, USA
@@ -21,7 +21,7 @@ redirect_from:
 Here is the - [Github Repo](https://github.com/aayush1909/DGA-or-Benign)
 
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
 
 **Team Lead, Grocery Retail Sales Analysis**
 #### May 2020 | Seattle, USA
@@ -34,7 +34,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/DGA-or-Benign)
 Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-Analysis)
 
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/sales.jpg" style="padding-right:15px">
 
 **Business Intelligence Engineer, Sales Data Warehousing and Visualization**
 #### March 2020 - June 2020 | Seattle, USA
@@ -46,7 +46,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-A
 Here is the - [Github Repo](https://github.com/aayush1909/Business-Intelligence-Systems)
 
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/Rotten.png" style="padding-right:15px">
 
 **Data Scientist, Fresh or Rotten?**
 #### February 2020 - March 2020 | Seattle, USA
@@ -68,7 +68,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Fresh-or-Rotten)
 *	Examined the collections using statistical analysis and presented findings using Power BI <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/fifa.png" style="padding-right:15px">
 
 **Data Analyst, FIFA '20 Analysis**
 #### January 2020 | Seattle, USA
@@ -81,7 +81,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Fresh-or-Rotten)
 Here is the - [Github Repo](https://github.com/aayush1909/Fifa_Analysis)
 
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/accuwater.jpg" style="padding-right:15px">
 
 **Data Analyst, AccuWater**
 #### October 2019 | Seattle, USA
@@ -93,7 +93,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Fifa_Analysis)
 Here is the - [Github Repo](https://github.com/aayush1909/AccuWater)
 
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/stock_market.jpg" style="padding-right:15px">
 
 **Software Developer, Stock Market Forecasting**
 #### August 2018 - May 2019 | Mumbai, India
