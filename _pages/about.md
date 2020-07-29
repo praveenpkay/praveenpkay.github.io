@@ -59,7 +59,7 @@ I completed my Undergraduate Degree in Computer Science from the University of M
 <img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
 
 **Digital Analyst Intern, [Greymeter](https://aayush1909.github.io/)** 
-#### December 2015 to January 2016 | Mumbai, India
+#### December 2015 - January 2016 | Mumbai, India
 -----
 *	Re-engineered area-specific social media campaigns by analyzing student performance and collecting it in Excel
 *	Used Marketing Analytics, Google Analytics to increase the likes on social media platforms by 58% in a month
@@ -68,7 +68,7 @@ I completed my Undergraduate Degree in Computer Science from the University of M
 <img align="left" height="100" width="100" src="../images/3DcreatR.jpg" style="padding-right:15px">
 
 **Marketing Research Analyst Intern, [3DcreatR](http://www.3dcreatr.com/)** 
-#### July 2015 to August 2015 | Mumbai, India
+#### July 2015 - August 2015 | Mumbai, India
 -----
 *	Researched the various pedagogical trends to understand the willingness of schools to add 3D printing to their curriculum 
 *	Re-designed the database of the top schools willing to participate in this program and improved the data quality by 17%
