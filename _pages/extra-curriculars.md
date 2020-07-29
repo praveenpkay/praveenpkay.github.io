@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-<img align="left" height="100" width="100" src="../images/malware_detection.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/stuco.png" style="padding-right:15px">
 
 **Sports Secretary, KJSCE Students' Council**
 #### June 2017 - June 2018 | Mumbai, India
@@ -17,7 +17,7 @@ author_profile: true
 * Introduced an intra-departmental competition to increase participation from students in the college. <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/malware_detection.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/skream.jpg" style="padding-right:15px">
 
 **Team Lead, KJSCE Skream**
 #### September 2017 - January 2018 | Mumbai, India
@@ -28,7 +28,7 @@ author_profile: true
 * Saw an increase in the number of sponsors from 50 to 75 and the number of particpants from 2500 to 4000 and hence managed to raise our profits by almost 15%. <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/malware_detection.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/parvaah.png" style="padding-right:15px">
 
 **Convener, KJSCE Parvaah**
 #### June 2016 - June 2019 | Mumbai, India
@@ -38,7 +38,7 @@ author_profile: true
 * Spread awareness about health and sanitation by attending regular beach cleanups and by beautifying a railway station in Mumbai. <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/malware_detection.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/abhiyantriki.png" style="padding-right:15px">
 
 **Organizing Committee, KJSCE Abhiyantriki**
 #### June 2017 - Septmeber 2017 | Mumbai, India
