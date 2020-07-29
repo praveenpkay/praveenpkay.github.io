@@ -72,7 +72,9 @@ I completed my Undergraduate Degree in Computer Science from the University of M
 -----
 *	Researched the various pedagogical trends to understand the willingness of schools to add 3D printing to their curriculum 
 *	Re-designed the database of the top schools willing to participate in this program and improved the data quality by 17%
+
 <br>
+
 # Key Skills
 ----
 <strong> Programming Languages: </strong> Python, R, Java, HTML5, CSS3, C, Javascript <br>
