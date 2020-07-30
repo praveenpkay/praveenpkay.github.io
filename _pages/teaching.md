@@ -34,7 +34,7 @@ author_profile: true
 **[Winter 2020] Teaching Assistant - Foundations of Programming: Python**
 
 -----
-*	Working with [Prof. Randal Root](https://www.linkedin.com/in/randalroot/) at the University of Washington - [Continuum College](https://www.continuum.uw.edu/) for the course IT FDN 100
+*	Worked with [Prof. Randal Root](https://www.linkedin.com/in/randalroot/) at the University of Washington - [Continuum College](https://www.continuum.uw.edu/) for the course IT FDN 100
 * Held weekly TA sessions to help students with their concerns/doubts
 * Graded Assignments and acted as a liasion between the students and the professor
 * Cultivated a positive, organized learning atmosphere by maintaining a fun and interactive classroom that is clean, organized, developmentally appropriate and engaging
