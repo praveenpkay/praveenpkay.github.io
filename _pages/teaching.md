@@ -10,7 +10,7 @@ author_profile: true
 
 -----
 *	Working with [Prof. Randal Root](https://www.linkedin.com/in/randalroot/) at the University of Washington - [Continuum College](https://www.continuum.uw.edu/) for the course IT FDN 110
-* Grading assignments and acting as a liasion between the students and the professor
+* Grading assignments and acting as a liaison between the students and the professor
 * Conducting office hours every week to help students with their queries
 
 -----
@@ -19,7 +19,7 @@ author_profile: true
 
 -----
 *	Worked with [Prof. Lalit Jain](https://www.linkedin.com/in/lalit-jain-87ab9223/) at the University of Washington - [Foster School of Business](https://foster.uw.edu/) for the course BUS AN 517
-* Created and graded assignments while acting as a liasion between the students and the professor
+* Created and graded assignments while acting as a liaison between the students and the professor
 * Conducted weekly office hours to help the students with their doubts
 
 -----
@@ -36,7 +36,7 @@ author_profile: true
 -----
 *	Worked with [Prof. Randal Root](https://www.linkedin.com/in/randalroot/) at the University of Washington - [Continuum College](https://www.continuum.uw.edu/) for the course IT FDN 100
 * Held weekly TA sessions to help students with their concerns/doubts
-* Graded Assignments and acted as a liasion between the students and the professor
+* Graded Assignments and acted as a liaison between the students and the professor
 * Cultivated a positive, organized learning atmosphere by maintaining a fun and interactive classroom that is clean, organized, developmentally appropriate and engaging
 
 -----
@@ -44,5 +44,5 @@ author_profile: true
 
 -----
 *	Worked with [Prof. Summer Rae](https://www.linkedin.com/in/summerela/) at the University of Washington - [Foster School of Business](https://foster.uw.edu/) for the course BUS AN 511
-* Acted as a liasion between the students and the professor and tried maintaining an organized learning atmosphere
+* Acted as a liaison between the students and the professor and tried maintaining an organized learning atmosphere
 * Graded assignments and conducted regular TA sessions
