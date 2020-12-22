@@ -21,9 +21,10 @@ I am a Master's Student at the [University of Washington](https://www.washington
 I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br> <br>
 <strong>CGPA: </strong> 3.82/4.0 <br>
 <strong>Relevant coursework:</strong>
-* <strong>Fall '19: </strong>Foundations of Data Science  <br>
-* <strong>Winter '20: </strong>Machine Learning and Econometrics, Relational Database Management Systems <br>
+* <strong>Fall '20: </strong>Statistics, Advanced Databases <br>
 * <strong>Spring '20: </strong>Scaling and Applications in Data Science, Business Intelligence Systems, Research and Analysis for Information Management Professionals <br>
+* <strong>Winter '20: </strong>Machine Learning and Econometrics, Relational Database Management Systems <br>
+* <strong>Fall '19: </strong>Foundations of Data Science  <br>
 
 -----
 <img align="left" height="100" width="100" src="../images/somaiya.png" style="padding-right:15px">
@@ -43,8 +44,11 @@ I completed my Undergraduate Degree in Computer Science from the University of M
 **Software Engineering Intern, [TerraClear Inc.](https://www.terraclear.com/)** 
 #### June 2020 - Present | Seattle, USA
 ----- 
-* Interacting with cross-functional teams to gather requirements, analyzed business challenges to design the automation of the Ground Truth Data Pipeline process fed into the Neural Network Models
-* Targeting to reduce the manual efforts of the CV-AI team on data processing of RGB and Multispectral images by over 60% 
+*	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
+*	Spearheaded research on image processing techniques for boundary & object detection from stitched orthomosaic images by leveraging OpenCV in Python
+*	Optimized operational processes of the Computer Vision & AI team by 60%+ and reduced 18+ man-hours per week
+*	Conducted code reviews and collaborated with cross-functional stakeholders to revamp code review procedures
+*	Designing & creating a relational PostgreSQL database to preserve JSON based drone data generated from the pilot portal
 
 -----
 <img align="left" height="100" width="100" src="../images/Puratech.png" style="padding-right:15px">
@@ -52,8 +56,9 @@ I completed my Undergraduate Degree in Computer Science from the University of M
 **Data Analyst Intern, [Puratech Solutions](https://www.puratech.co.in/)**
 #### June 2018 - August 2018 | Mumbai, India
 -----
-*	Designed processes to collect consumer and demographic data of customers by scraping websites and storing them in databases
-*	Analyzed customer data using R to gain insights on customer behavior, increasing the customer retention rate by 9%
+*	Refactored the consumer demographic data collection process and increased operational efficiencies by 12%
+*	Collected & analyzed web scraped data in R to derive insights on customer behavior, informing strategies that increased the customer retention rate by 9%
+*	Conceptualized and implemented A/B test plans to validate customer hypotheses and understand customer behavior patterns
 
 -----
 <img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
