@@ -14,7 +14,6 @@ Currently, I am working as a Machine Learning Engineer at [Stats Perform](https:
 I'm super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
 
 Oh, and also, I'm a sports buff and a HUGE Formula 1 fan. Hit me up if you want to talk sports, machine learning, data science, or anything fun in life! :)
-
 <br> <br>
 # Education
 -----
