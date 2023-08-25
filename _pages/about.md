@@ -21,7 +21,6 @@ I'm an analytics consultant with almost two years of experience working in a pur
 I am currently pursuing my Graduate Degree in Business Analytics from the University of Minnesota - Carlson School Of Management. <br> <br>
 <strong>CGPA: </strong> 3.3/4.0 <br>
 <strong>Relevant coursework:</strong> Statistics, Advanced Databases, SQL <br>
-<br>
 
 -----
 <img align="left" height="100" width="100" src="../images/vit-logo.png" style="padding-right:15px">
@@ -70,23 +69,6 @@ I completed my Undergraduate Degree in Electronics & Communication Engineering f
 *	Conceptualized and implemented A/B test plans to validate customer hypotheses and understand customer behavior patterns
 
 -----
-<img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
-
-**Digital Analyst Intern, [Greymeter](https://aayush1909.github.io/)** 
-#### December 2015 - January 2016 | Mumbai, India
------
-*	Re-engineered area-specific social media campaigns by analyzing student performance and collecting it in Excel
-*	Used Marketing Analytics, Google Analytics to increase the likes on social media platforms by 58% in a month
-
------
-<img align="left" height="100" width="100" src="../images/3DcreatR.jpg" style="padding-right:15px">
-
-**Marketing Research Analyst Intern, [3DcreatR](http://www.3dcreatr.com/)** 
-#### July 2015 - August 2015 | Mumbai, India
------
-*	Researched the various pedagogical trends to understand the willingness of schools to add 3D printing to their curriculum 
-*	Re-designed the database of the top schools willing to participate in this program and improved the data quality by 17%
-
 <br>
 
 # Key Skills
