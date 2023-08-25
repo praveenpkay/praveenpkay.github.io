@@ -15,15 +15,13 @@ I'm an analytics consultant with almost two years of experience working in a pur
 <img align="left" height="100" width="100" src="../images/carlson-logo.png" style="padding-right:15px">
 
 **Master of Science (MS) in Business Analytics, [University of Minnesota](https://carlsonschool.umn.edu/graduate/masters/business-analytics)**
-**Carlson School Of Management
 #### June 2023 - Present | Minneapolis, USA
 
 -----
 I am currently pursuing my Graduate Degree in Business Analytics from the University of Minnesota. <br> <br>
 <strong>CGPA: </strong> 3.3/4.0 <br>
-<strong>Relevant coursework:</strong>
-* <strong> Summer '23: </strong>Statistics, Advanced Databases, SQL <br>
-
+<strong>Relevant coursework:</strong> Statistics, Advanced Databases, SQL <br>
+<br>
 -----
 <img align="left" height="100" width="100" src="../images/vit-logo.png" style="padding-right:15px">
 
@@ -39,8 +37,20 @@ I completed my Undergraduate Degree in Electronics & Communication Engineering f
 -----
 <img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
 
-**Software Engineering Intern, [TerraClear Inc.](https://www.terraclear.com/)** 
-#### June 2020 - Present | Seattle, USA
+**Senior Analyst, [LatentView Analytics](https://www.latentview.com/)** 
+#### October 2022 - April 2023 | Chennai, India
+----- 
+*	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
+*	Spearheaded research on image processing techniques for boundary & object detection from stitched orthomosaic images by leveraging OpenCV in Python
+*	Optimized operational processes of the Computer Vision & AI team by 60%+ and reduced 18+ man-hours per week
+*	Conducted code reviews and collaborated with cross-functional stakeholders to revamp code review procedures
+*	Designing & creating a relational PostgreSQL database to preserve JSON based drone data generated from the pilot portal
+
+-----
+<img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
+
+**Analyst, [LatentView Analytics](https://www.latentview.com/)** 
+#### October 2021 - October 2022 | Chennai, India
 ----- 
 *	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
 *	Spearheaded research on image processing techniques for boundary & object detection from stitched orthomosaic images by leveraging OpenCV in Python
@@ -51,8 +61,8 @@ I completed my Undergraduate Degree in Electronics & Communication Engineering f
 -----
 <img align="left" height="100" width="100" src="../images/Puratech.png" style="padding-right:15px">
 
-**Data Analyst Intern, [Puratech Solutions](https://www.puratech.co.in/)**
-#### June 2018 - August 2018 | Mumbai, India
+**Project Engineer, [WIPRO Technologies](https://www.wipro.com/)**
+#### September 2020 - September 2021 | Bengaluru, India
 -----
 *	Refactored the consumer demographic data collection process and increased operational efficiencies by 12%
 *	Collected & analyzed web scraped data in R to derive insights on customer behavior, informing strategies that increased the customer retention rate by 9%
