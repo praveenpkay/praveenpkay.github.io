@@ -18,9 +18,11 @@ I'm an analytics consultant with almost two years of experience working in a pur
 #### June 2023 - Present | Minneapolis, USA
 
 -----
-I am currently pursuing my Graduate Degree in Business Analytics from the University of Minnesota. <br> <br>
+I am currently pursuing my Graduate Degree in Business Analytics from the University of Minnesota - Carlson School Of Management. <br> <br>
 <strong>CGPA: </strong> 3.3/4.0 <br>
 <strong>Relevant coursework:</strong> Statistics, Advanced Databases, SQL <br>
+<br>
+
 -----
 <img align="left" height="100" width="100" src="../images/vit-logo.png" style="padding-right:15px">
 
