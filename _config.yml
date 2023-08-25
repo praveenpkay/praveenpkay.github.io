@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aayush V. Shah"
+title                    : "Praveen Kumar G"
 title_separator          : "-"
-name                     : &name "Aayush V. Shah"
-description              : &description "Graduate Student at the University of Washigton"
-url                      : https://aayush1909.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Praveen Kumar G"
+description              : &description "Graduate Student at the University Of Minnesota - Carlson School Of Management"
+url                      : https://praveenpkay.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : aayushah19
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aayush V. Shah"
+  name             : "Praveen Kumar G"
   avatar           : "Aayush_Photo_2.jpg"
-  bio              : "Data Science • Software Development • Business Intelligence"
-  location         : "Seattle, Washington"
+  bio              : "Data Science & Analytics Consultant • CPG • Alco-Bev • Story Telling"
+  location         : "Minneapolis, Minnesota"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "aayushah@uw.edu"
+  email            : "govin098@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aayush1909"
+  github           : "praveenpkay"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "aayush-shah19"
+  linkedin         : "praveenpkay"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aayushah19"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

@@ -7,34 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey, thanks for visiting my website. I'm Aayush - a recent (2021) graduate from the [University of Washington](https://www.washington.edu/). I'm a Machine Learning Engineer/Data Scientist with over two years of experience working in fast-scaling & high-performance teams.
-
-Currently, I am working as a Machine Learning Engineer at [Stats Perform](https://www.statsperform.com/) aiming to build a platform to help Data Scientists and AI Scientists in productionizing their models. I have also recently worked as a Student Researcher at [Microsoft](https://www.microsoft.com/en-us/) and at [TerraClear](https://www.terraclear.com/) as a Software Engineer. I have a Bachelor of Technology degree in Computer Science from the [University of Mumbai](https://kjsce.somaiya.edu/en).
-
-I'm super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
-
-Oh, and also, I'm a sports buff and a HUGE Formula 1 fan. Hit me up if you want to talk sports, machine learning, data science, or anything fun in life! :)
+Hey, thanks for visiting my website. I'm Praveen Kumar G - a (2024) graduate from the [University of Minnesota - Carlson School Of Management](https://carlsonschool.umn.edu/graduate/masters/business-analytics). 
+I'm an analytics consultant with almost two years of experience working in a pure play analytics firm [LatentView Analytics] (https://www.latentview.com/) in their Consumer/CPG division.
 <br> <br>
 # Education
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/carlson-logo.png" style="padding-right:15px">
 
-**Master of Science (MS) in Information Management, [University of Washington](https://www.washington.edu/)**
-#### September 2019 - Present | Seattle, USA
+**Master of Science (MS) in Business Analytics, [University of Minnesota - Carlson School Of Management](https://carlsonschool.umn.edu/graduate/masters/business-analytics)**
+#### June 2023 - Present | Minneapolis, USA
 
 -----
-I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br> <br>
-<strong>CGPA: </strong> 3.82/4.0 <br>
+I am currently pursuing my Graduate Degree in Business Analytics from the University of Minnesota. <br> <br>
+<strong>CGPA: </strong> 3.3/4.0 <br>
 <strong>Relevant coursework:</strong>
-* <strong>Fall '20: </strong>Statistics, Advanced Databases <br>
-* <strong>Spring '20: </strong>Scaling and Applications in Data Science, Business Intelligence Systems, Research and Analysis for Information Management Professionals <br>
-* <strong>Winter '20: </strong>Machine Learning and Econometrics, Relational Database Management Systems <br>
-* <strong>Fall '19: </strong>Foundations of Data Science  <br>
-
+* <strong>Fall '20: </strong>Statistics, Advanced Databases, SQL <br>
 -----
-<img align="left" height="100" width="100" src="../images/somaiya.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/vit-logo.png" style="padding-right:15px">
 
-**Bachelor of Technology (B.Tech) in Computer Science, [University of Mumbai](https://mu.ac.in/)**
+**Bachelor of Technology (B.Tech) in Electronics & Communication Engineering, [Vellore Institute Of Technology](https://mu.ac.in/)**
 #### August 2015 - June 2019 | Mumbai, India
 
 -----
