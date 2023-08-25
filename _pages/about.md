@@ -37,7 +37,7 @@ I completed my Undergraduate Degree in Electronics & Communication Engineering f
 -----
 <img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
 
-**Senior Analyst, [LatentView Analytics](https://www.latentview.com/)** 
+**Senior Analyst, CPG, [LatentView Analytics](https://www.latentview.com/)** 
 #### October 2022 - April 2023 | Chennai, India
 ----- 
 *	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
@@ -49,7 +49,7 @@ I completed my Undergraduate Degree in Electronics & Communication Engineering f
 -----
 <img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
 
-**Analyst, [LatentView Analytics](https://www.latentview.com/)** 
+**Analyst, CPG, [LatentView Analytics](https://www.latentview.com/)** 
 #### October 2021 - October 2022 | Chennai, India
 ----- 
 *	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
@@ -61,7 +61,7 @@ I completed my Undergraduate Degree in Electronics & Communication Engineering f
 -----
 <img align="left" height="100" width="100" src="../images/Puratech.png" style="padding-right:15px">
 
-**Project Engineer, [WIPRO Technologies](https://www.wipro.com/)**
+**Project Engineer, Research & Development - Automotive [WIPRO Technologies](https://www.wipro.com/)**
 #### September 2020 - September 2021 | Bengaluru, India
 -----
 *	Refactored the consumer demographic data collection process and increased operational efficiencies by 12%
@@ -73,12 +73,10 @@ I completed my Undergraduate Degree in Electronics & Communication Engineering f
 
 # Key Skills
 ----
-* <strong> Programming Languages: </strong> Python, R, Java, HTML5, CSS3, C, Javascript <br>
-* <strong> Operating Systems: </strong> Windows, Linux, Ubuntu <br>
-* <strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, Caret, Ggplot <br>
-* <strong> Databases: </strong> MySQL, PostreSQL, T-SQL, MongoDB, SSMS, SSIS <br>
-* <strong> Visualization Tools: </strong> Tableau, PowerBI, Qlikview <br>
+* <strong> Programming Languages: </strong> Python, R, MATLAB, MySQL <br>
+* <strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, PyCaret, Ggplot <br>
+* <strong> Visualization Tools: </strong> Tableau, PowerBI <br>
 * <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
-* <strong> Tools: </strong> AWS SageMaker, AWS Lambda, AWS EC2, AWS API Gateway, Jira, Git, MS Excel <br>
+* <strong> Tools: </strong> Jira, Git, MS Excel, Azure, PySpark, PowerPoint <br>
   
 ----
