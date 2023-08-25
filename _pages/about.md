@@ -8,30 +8,32 @@ redirect_from:
   - /about.html
 ---
 Hey, thanks for visiting my website. I'm Praveen Kumar G - a (2024) graduate from the [University of Minnesota - Carlson School Of Management](https://carlsonschool.umn.edu/graduate/masters/business-analytics). 
-I'm an analytics consultant with almost two years of experience working in a pure play analytics firm [LatentView Analytics] (https://www.latentview.com/) in their Consumer/CPG division.
+I'm an analytics consultant with almost two years of experience working in a pure play analytics firm [LatentView Analytics](https://www.latentview.com/) in their Consumer/CPG division.
 <br> <br>
 # Education
 -----
 <img align="left" height="100" width="100" src="../images/carlson-logo.png" style="padding-right:15px">
 
-**Master of Science (MS) in Business Analytics, [University of Minnesota - Carlson School Of Management](https://carlsonschool.umn.edu/graduate/masters/business-analytics)**
+**Master of Science (MS) in Business Analytics, [University of Minnesota](https://carlsonschool.umn.edu/graduate/masters/business-analytics)**
+**Carlson School Of Management
 #### June 2023 - Present | Minneapolis, USA
 
 -----
 I am currently pursuing my Graduate Degree in Business Analytics from the University of Minnesota. <br> <br>
 <strong>CGPA: </strong> 3.3/4.0 <br>
 <strong>Relevant coursework:</strong>
-* <strong>Fall '20: </strong>Statistics, Advanced Databases, SQL <br>
+* <strong> Summer '23: </strong>Statistics, Advanced Databases, SQL <br>
+
 -----
 <img align="left" height="100" width="100" src="../images/vit-logo.png" style="padding-right:15px">
 
 **Bachelor of Technology (B.Tech) in Electronics & Communication Engineering, [Vellore Institute Of Technology](https://mu.ac.in/)**
-#### August 2015 - June 2019 | Mumbai, India
+#### June 2016 - June 2020 | Chennai, India
 
 -----
-I completed my Undergraduate Degree in Computer Science from the University of Mumbai - K.J Somaiya College of Engineering in 2019. <br> <br>
-<strong>CGPA:</strong> 3.7/4.0 <br> 
-<strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning, Big Data Analytics, Data Warehousing and Mining, Neural Networks and Fuzzy Logic, Image Analysis, Introduction to Business Intelligence, Fundamentals of Programming, Data Structures, Analysis of Algorithms, Operating Systems, Object Oriented Programming, Applied Mathematics <br>
+I completed my Undergraduate Degree in Electronics & Communication Engineering from the Vellore Institute Of Technology, Chennai, in 2020. <br> <br>
+<strong>CGPA:</strong> 3.49/4.0 <br> 
+<strong>Relevant coursework:</strong> Embedded Systems, Analytics with IOT, Robotics, Python, SQL, MATLAB, Fundamentals of Programming <br>
 <br>
 # Experience
 -----
