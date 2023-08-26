@@ -55,7 +55,7 @@ Here is the - [Github Repository](https://github.com/praveenpkay/Customer-Segmen
 *	An attempt to classify & screen high rewarding influencers for potential brand endorsements with <strong>90%</strong> accuracy. 
 *	Developed an automated influencer classification where I scraped an individual's profile metrics, formulated, computed a dataset, and labeled them as Mega, Mid-Tier, Macro, Micro, Nano type of influencers.<br>
 
-Here is the - [Github Repo](https://github.com/praveenpkay/Instagram-Influencer-Classification)
+Here is the - [Github Repository](https://github.com/praveenpkay/Instagram-Influencer-Classification)
 
 -----
 <img align="left" height="100" width="100" src="../images/Rotten.png" style="padding-right:15px">
@@ -64,9 +64,9 @@ Here is the - [Github Repo](https://github.com/praveenpkay/Instagram-Influencer-
 #### Jan 2020 - May 2020 | Chennai, India
 
 -----
-*	UG Capstone Project - A research attempt to analyze and extract medically relevant data points from ECG signal captured from a sensor.
+*	UG Capstone Project - A research attempt to analyze and <strong> extract medically relevant data points from ECG signal </strong>captured from a sensor.
 *	Prepared an automated diagnostic heart health report that contains: Decomposition of PQRST points of the captured ECG signal and likelihood of encountering an heart disease based on lifestyle. <br>
 
-Here is the - [Github Repo](https://github.com/praveenpkay/ECG-feature-extraction-signal-analysis)
+Here is the - [Github Repository](https://github.com/praveenpkay/ECG-feature-extraction-signal-analysis)
 
 -----
