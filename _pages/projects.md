@@ -52,7 +52,7 @@ Here is the - [Github Repository](https://github.com/praveenpkay/Customer-Segmen
 #### May 2021 - June 2021 | Bengaluru, India
 
 -----
-*	An attempt to classify & screen high rewarding influencers for potential brand endorsements. 
+*	An attempt to classify & screen high rewarding influencers for potential brand endorsements with <strong>90%</strong> accuracy. 
 *	Developed an automated influencer classification where I scraped an individual's profile metrics, formulated, computed a dataset, and labeled them as Mega, Mid-Tier, Macro, Micro, Nano type of influencers.<br>
 
 Here is the - [Github Repo](https://github.com/praveenpkay/Instagram-Influencer-Classification)
@@ -60,120 +60,13 @@ Here is the - [Github Repo](https://github.com/praveenpkay/Instagram-Influencer-
 -----
 <img align="left" height="100" width="100" src="../images/Rotten.png" style="padding-right:15px">
 
-**Data Scientist, Fresh or Rotten?**
-#### February 2020 - March 2020 | Seattle, USA
+**Feature Extraction from ECG (Electrocardiogram) Signal**
+#### Jan 2020 - May 2020 | Chennai, India
 
 -----
-*	Mined reviews to classify them as fresh or rotten on the Rotten Tomatoes Movie Review data using Naïve Bayes algorithm
-*	Tuned the model’s hyperparameters using K-Fold Cross Validation and used TF-IDF to attain an accuracy of 67.03% <br>
+*	UG Capstone Project - A research attempt to analyze and extract medically relevant data points from ECG signal captured from a sensor.
+*	Prepared an automated diagnostic heart health report that contains: Decomposition of PQRST points of the captured ECG signal and likelihood of encountering an heart disease based on lifestyle. <br>
 
-Here is the - [Github Repo](https://github.com/aayush1909/Fresh-or-Rotten)
-
------
-
-<img align="left" height="100" width="100" src="../images/Rotten.png" style="padding-right:15px">
-
-**Data Scientist, Fresh or Rotten?**
-#### February 2020 - March 2020 | Seattle, USA
-
------
-*	Mined reviews to classify them as fresh or rotten on the Rotten Tomatoes Movie Review data using Naïve Bayes algorithm
-*	Tuned the model’s hyperparameters using K-Fold Cross Validation and used TF-IDF to attain an accuracy of 67.03% <br>
-
-Here is the - [Github Repo](https://github.com/aayush1909/Fresh-or-Rotten)
-
------
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
-
-**Business Intelligence Engineer, University of Washington Database Management**
-#### February 2020 - March 2020 | Seattle, USA
-
------
-*	Created a data warehouse to virtualize the student resources throughout campus in MySQL and SQL Server
-*	Examined the collections using statistical analysis and presented findings using Power BI <br>
-
------
-<img align="left" height="100" width="100" src="../images/fifa.png" style="padding-right:15px">
-
-**Data Analyst, FIFA '20 Analysis**
-#### January 2020 | Seattle, USA
-
------
-*	Analyzed the data to see the 20 most competitive clubs in the world and the best suited ones for young players to grow
-*	Applied Recursive Feature Elimination, Lasso and Ridge Regression to see the potential of players with an accuracy of 84%
-*	Secured the 2nd runners-up position at the Datathon held at the University of Washington <br>
-
-Here is the - [Github Repo](https://github.com/aayush1909/Fifa_Analysis)
-
------
-<img align="left" height="100" width="100" src="../images/accuwater.jpg" style="padding-right:15px">
-
-**Data Analyst, AccuWater**
-#### October 2019 | Seattle, USA
-
------
-*	Built a prototype in 36 hours to determine the most prominent features causing algal growth in oceans using NASA’s MODIS data 
-*	Applied feature engineering and Random Forest to predict the algal growth with an accuracy of 90% based on 11 features <br>
-
-Here is the - [Github Repo](https://github.com/aayush1909/AccuWater)
-
------
-<img align="left" height="100" width="100" src="../images/stock_market.jpg" style="padding-right:15px">
-
-**Software Developer, Stock Market Forecasting**
-#### August 2018 - May 2019 | Mumbai, India
-
------
-*	Designed a real-time investment portal on the Bombay Stock Exchange (BSE) data using Python
-*	Implemented a hybrid model of Neural Networks, Support Vector Regression and Sentiment Analysis with an accuracy of 95% <br>
-
-Here is the - [Github Repo](https://github.com/aayush1909/Stock-Market-Forecasting)
-
------
-<img align="left" height="100" width="100" src="../images/captcha.png" style="padding-right:15px">
-
-**Machine Learning Engineer, Breaking CAPTCHA using CNN**
-#### October 2017 - November 2017 | Mumbai, India
-
------
-*	Tested the robustness of a CAPTCHA generator using CAPTCHA’s drawn in a convoluted way
-*	Implemented CNN for alphabet/digit recognition which was able to break the CAPTCHA generator exposing security risks <br>
-
-Here is the - [Github Repo](https://github.com/aayush1909/Breaking-Captcha-Using-Machine-Learning)
-
------
-<img align="left" height="100" width="100" src="../images/playstore.png" style="padding-right:15px">
-
-**Data Scientist, App Rating Prediction**
-#### January 2019 | Mumbai, India
-
------
-* Developed a Google Apps rating predictor using machine learning algorithms with the best performing error rate of 0.13
-* Evaluated the performance using Root Mean Squared Error, R-squared error, Residual Standard Error and Mean Absolute Error <br>
-
-Here is the - [Github Repo](https://github.com/aayush1909/App-Rating-Prediction)
-
------
-<img align="left" height="100" width="100" src="../images/topic_modeling.jpeg" style="padding-right:15px">
-
-**Machine Learning Engineer, Extracting Main Topic from a Document**
-#### March 2019 | Mumbai, India
-
------
-* Preprocessed the raw document using tokenization, lemmatization and stemming
-* Implemented Latent Dirichlet Allocation (Natural Language Processing) to extract the main topics from the document <br>
-
-Here is the - [Github Repo](https://github.com/aayush1909/Extracting-main-topics-using-LDA)
-
------
-<img align="left" height="100" width="100" src="../images/hospital.jpg" style="padding-right:15px">
-
-**Web Developer, Hospital Management System**
-#### July 2017 to November 2017 | Mumbai, India
-
------
-* Developed a website with basic functionalities such as booking an appointment, finding the right doctor, etc using HTML, CSS, PHP, JavaScript and Session Handling <br>
-
-Here is the - [Github Repo](https://github.com/aayush1909/Hospital-Management-Website)
+Here is the - [Github Repo](https://github.com/praveenpkay/ECG-feature-extraction-signal-analysis)
 
 -----
