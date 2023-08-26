@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 -----
-<img align="left" height="100" width="100" src="../images/malware_detection.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/malware_detection.png" style="padding-right:15px">
 
-**AAAAAA Data Scientist, ML-Driven DNS Malware Detection System**
-#### March 2020 - June 2020 | Seattle, USA
+**Predicting Likely Subscribers For Music Website**
+#### June 2023 - Aug 2023 | Minneapolis, USA
 
 -----
-*	Developed and deployed RESTful APIs using AWS API Gateway to predict fully qualified domain names as DGA or Benign
-*	Implemented an XGBoost Classifier using AWS SageMaker on a custom 15 million dataset uploaded to an S3 bucket
-*	Scaled the product to 1,000,000+ predictions per minute through AWS Lambda <br>
+*	Developed a predictive model that identifies highly likely Premium users among Freemium users through class probabilities.
+*	Identified the right evaluation metric that represents model performance through the imbalanced dataset.
+*	Projected a 53% reduction in Customer Acquisition Cost and uncovered factors/KPIs that propel premium subscriptions. <br>
 
-Here is the - [Github Repo](https://github.com/aayush1909/DGA-or-Benign)
+Here is the - [Github Repo](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers) | [Technical Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/Freemium%20to%20Premium%20Technical%20Document.pdf) | [Executive Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/XYZ%20-%20Freemium%20to%20Premium%20Deck.pdf)
 
 -----
 <img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
