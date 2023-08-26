@@ -46,10 +46,10 @@ I completed my Undergraduate Degree in Electronics & Communication Engineering f
 **Senior Analyst, CPG, [LatentView Analytics](https://www.latentview.com/)** 
 #### October 2022 - April 2023 | Chennai, India
 ----- 
-*	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
-*	Spearheaded research on image processing techniques for boundary & object detection from stitched orthomosaic images by leveraging OpenCV in Python
-*	Optimized operational processes of the Computer Vision & AI team by 60%+ and reduced 18+ man-hours per week
-*	Conducted code reviews and collaborated with cross-functional stakeholders to revamp code review procedures
+*	Led a team of five analysts, delivering high-quality solutions and ensuring timely delivery of market insights and analysis. Pioneered problem-solving ideation and led the implementation of RFP solutions.
+*	Identified growth opportunities and engaged in strategic conversations with CPG executives, building a comprehensive problem universe and offering solutions.
+*	Contributed to developing inbound analytical capabilities, expanding LatentView's offerings in CPG thereby strengthening partnerships.
+*	Honored with Rising Star Award for exemplary contributions to the company's success. One of only five employees from analysts to managers in LatentView to receive the award, as chosen by an esteemed leadership panel.
 *	Designing & creating a relational PostgreSQL database to preserve JSON based drone data generated from the pilot portal
 
 -----
