@@ -43,21 +43,34 @@ Here is the - [Github Repository](https://github.com/praveenpkay/Freemium-To-Pre
 *	Analyzed consumer behaviors through their annual spending patterns across channels to tailor strategies to satisfy consumer demand.
 *	Identified segments of customers like Fresh & Frozen Shoppers, Everyday Shoppers, High potential Shoppers and other small scale shoppers by their purchase behavior. <br>
 
-| [Github Repository](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor) | [Technical Summary](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor/blob/main/Technical%20Document.pdf) | [Executive Summary](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor/blob/main/Executive%20Summary.pdf)
+Here is the - [Github Repository](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor) | [Technical Summary](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor/blob/main/Technical%20Document.pdf) | [Executive Summary](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor/blob/main/Executive%20Summary.pdf)
 
 -----
 <img align="left" height="100" width="100" src="../images/sales.jpg" style="padding-right:15px">
 
-**Business Intelligence Engineer, Sales Data Warehousing and Visualization**
-#### March 2020 - June 2020 | Seattle, USA
+**Classifying Type Of Influencer In Instagram**
+#### May 2021 - June 2021 | Bengaluru, India
 
 -----
-*	Created ETL operations to stage and pipeline 250,000 transactions of sales data into a data warehouse using SQL Server
-*	Discovered key data-driven insights to enhance product sales and profits using Tableau visualizations and Dashboards <br>
+*	An attempt to classify & screen high rewarding influencers for potential brand endorsements. 
+*	Developed an automated influencer classification where I scraped an individual's profile metrics, formulated, computed a dataset, and labeled them as Mega, Mid-Tier, Macro, Micro, Nano type of influencers.<br>
 
-Here's the | [Github Repo](https://github.com/aayush1909/Business-Intelligence-Systems)
+Here is the - [Github Repo](https://github.com/praveenpkay/Instagram-Influencer-Classification)
 
 -----
+<img align="left" height="100" width="100" src="../images/Rotten.png" style="padding-right:15px">
+
+**Data Scientist, Fresh or Rotten?**
+#### February 2020 - March 2020 | Seattle, USA
+
+-----
+*	Mined reviews to classify them as fresh or rotten on the Rotten Tomatoes Movie Review data using Naïve Bayes algorithm
+*	Tuned the model’s hyperparameters using K-Fold Cross Validation and used TF-IDF to attain an accuracy of 67.03% <br>
+
+Here is the - [Github Repo](https://github.com/aayush1909/Fresh-or-Rotten)
+
+-----
+
 <img align="left" height="100" width="100" src="../images/Rotten.png" style="padding-right:15px">
 
 **Data Scientist, Fresh or Rotten?**
