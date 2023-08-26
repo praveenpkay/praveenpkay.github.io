@@ -50,7 +50,6 @@ I completed my Undergraduate Degree in Electronics & Communication Engineering f
 *	Identified growth opportunities and engaged in strategic conversations with CPG executives, building a comprehensive problem universe and offering solutions.
 *	Contributed to developing inbound analytical capabilities, expanding LatentView's offerings in CPG thereby strengthening partnerships.
 *	Honored with Rising Star Award for exemplary contributions to the company's success. One of only five employees from analysts to managers in LatentView to receive the award, as chosen by an esteemed leadership panel.
-*	Designing & creating a relational PostgreSQL database to preserve JSON based drone data generated from the pilot portal
 
 -----
 <img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
