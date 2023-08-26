@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 -----
-<img align="left" height="100" width="100" src="../images/malware_detection.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/MV.jpg" style="padding-right:15px">
 
-**MoundsView**
+**MoundsView Public Schools - Carlson Analytics Lab**
 #### June 2023 - Aug 2023 | Minneapolis, USA
 
 -----
-*	Projected a 53% reduction in Customer Acquisition Cost and uncovered factors/KPIs that propel premium subscriptions.
-*	Developed a predictive model that identifies highly likely Premium users among Freemium users through class probabilities.
-*	Identified the right evaluation metric that represents model performance through the imbalanced dataset. <br>
+*	Analyzed the effectiveness of early college preparation programs on high school students.
+*	Uncovered success pathways for enrollment and preparedness for post-secondary success. 
+*	Awarded as Runners-Up for summer 2023 live case. <br>
 
-Here is the - [Github Repo](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers) | [Technical Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/Freemium%20to%20Premium%20Technical%20Document.pdf) | [Executive Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/XYZ%20-%20Freemium%20to%20Premium%20Deck.pdf)
+Here is the - [LinkedIn Post With My Team & Clients](https://www.linkedin.com/posts/carlson-analytics-lab_analytics-umnproud-activity-7099444600993419264-2eS6?utm_source=share&utm_medium=member_desktop)
 
 -----
 
@@ -26,7 +26,7 @@ Here is the - [Github Repo](https://github.com/praveenpkay/Freemium-To-Premium-P
 #### June 2023 - Aug 2023 | Minneapolis, USA
 
 -----
-*	Projected a 53% reduction in Customer Acquisition Cost and uncovered factors/KPIs that propel premium subscriptions.
+*	Projected a <strong>53%</strong> reduction in Customer Acquisition Cost and uncovered factors/KPIs that propel premium subscriptions.
 *	Developed a predictive model that identifies highly likely Premium users among Freemium users through class probabilities.
 *	Identified the right evaluation metric that represents model performance through the imbalanced dataset. <br>
 
