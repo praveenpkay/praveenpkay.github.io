@@ -13,8 +13,8 @@ author_profile: true
 
 -----
 *	Analyzed the effectiveness of early college preparation programs on high school students.
-*	Uncovered success pathways for enrollment and preparedness for post-secondary success. 
-*	Awarded as Runners-Up for summer 2023 live case. <br>
+*	Uncovered success pathways for enrollment and preparedness for post-secondary success.
+*	Awarded as <strong>Runners-Up</strong> for summer 2023 live case at Carlson Analytics Lab. <br>
 
 Here is the - [LinkedIn Post With My Team & Clients](https://www.linkedin.com/posts/carlson-analytics-lab_analytics-umnproud-activity-7099444600993419264-2eS6?utm_source=share&utm_medium=member_desktop)
 
