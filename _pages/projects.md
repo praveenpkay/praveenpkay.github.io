@@ -20,7 +20,7 @@ Here is the - [LinkedIn Post With My Team & Clients](https://www.linkedin.com/po
 
 -----
 
-<img align="left" height="100" width="100" src="../images/malware_detection.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/MD.png" style="padding-right:15px">
 
 **Predicting Likely Subscribers For Music Website**
 #### June 2023 - Aug 2023 | Minneapolis, USA
@@ -30,13 +30,13 @@ Here is the - [LinkedIn Post With My Team & Clients](https://www.linkedin.com/po
 *	Developed a predictive model that identifies highly likely Premium users among Freemium users through class probabilities.
 *	Identified the right evaluation metric that represents model performance through the imbalanced dataset. <br>
 
-Here is the - [Github Repo](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers) | [Technical Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/Freemium%20to%20Premium%20Technical%20Document.pdf) | [Executive Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/XYZ%20-%20Freemium%20to%20Premium%20Deck.pdf)
+Here is the - [Github Repository](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers) | [Technical Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/Freemium%20to%20Premium%20Technical%20Document.pdf) | [Executive Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/XYZ%20-%20Freemium%20to%20Premium%20Deck.pdf)
 
 -----
-<img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/WS.png" style="padding-right:15px">
 
-**Team Lead, Grocery Retail Sales Analysis**
-#### May 2020 | Seattle, USA
+**Customer Segmentation Of An Wholesale Distributor**
+#### June 2023 - Aug 2023 | Minneapolis, USA
 
 -----
 *	Analyzed various store trends and created dashboards using Tableau to understand categories and items the store can focus on
