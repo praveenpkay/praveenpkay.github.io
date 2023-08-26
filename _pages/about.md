@@ -46,29 +46,34 @@ I completed my Undergraduate Degree in Electronics & Communication Engineering f
 **Senior Analyst, CPG, [LatentView Analytics](https://www.latentview.com/)** 
 #### October 2022 - April 2023 | Chennai, India
 ----- 
-*	Led a team of five analysts, delivering high-quality solutions and ensuring timely delivery of market insights and analysis. Pioneered problem-solving ideation and led the implementation of RFP solutions.
-*	Identified growth opportunities and engaged in strategic conversations with CPG executives, building a comprehensive problem universe and offering solutions.
-*	Contributed to developing inbound analytical capabilities, expanding LatentView's offerings in CPG thereby strengthening partnerships.
-*	Honored with Rising Star Award for exemplary contributions to the company's success. One of only five employees from analysts to managers in LatentView to receive the award, as chosen by an esteemed leadership panel.
+*	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
+*	Spearheaded research on image processing techniques for boundary & object detection from stitched orthomosaic images by leveraging OpenCV in Python
+*	Optimized operational processes of the Computer Vision & AI team by 60%+ and reduced 18+ man-hours per week
+*	Conducted code reviews and collaborated with cross-functional stakeholders to revamp code review procedures
+*	Designing & creating a relational PostgreSQL database to preserve JSON based drone data generated from the pilot portal
+
 -----
 <img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
 
 **Analyst, CPG, [LatentView Analytics](https://www.latentview.com/)** 
 #### October 2021 - October 2022 | Chennai, India
 ----- 
-*	Developed a robust approach to accurately estimate the market share of spirits, leveraging advanced analytical techniques and market research expertise.
-*	Analyzed POS data at the SKU level to extract valuable insights into consumer behavior, and conducted detailed analyses of supply chain dynamics between Shipments, Depletions and Sellout.
-*	Identified key market drivers; empowered leadership with key insights, opportunities, and recommendations.
-*	Leveraged statistical and machine learning approach to problem-solving - clustering, regression, and cross-correlation.
+*	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
+*	Spearheaded research on image processing techniques for boundary & object detection from stitched orthomosaic images by leveraging OpenCV in Python
+*	Optimized operational processes of the Computer Vision & AI team by 60%+ and reduced 18+ man-hours per week
+*	Conducted code reviews and collaborated with cross-functional stakeholders to revamp code review procedures
+*	Designing & creating a relational PostgreSQL database to preserve JSON based drone data generated from the pilot portal
+
 -----
 <img align="left" height="100" width="100" src="../images/Puratech.png" style="padding-right:15px">
 
 **Project Engineer, Research & Development - Automotive [WIPRO Technologies](https://www.wipro.com/)**
 #### September 2020 - September 2021 | Bengaluru, India
 -----
-*	Automated build download scripts as a Python developer in Team Scheduler. Gained hands-on experience in Git, Jira, Client Python, and Database design. 
-*	Led the implementation of an Automated lab run across various Electronic Control Units (ECUs) as a single point of contact for the IPC (Inter Processor Communication) module offshore, driving significant improvements in productivity and test case quality.
-*	Owned the automation implementation end-to-end: problem identification, story creation, solution development, production testing, and validation. 
+*	Refactored the consumer demographic data collection process and increased operational efficiencies by 12%
+*	Collected & analyzed web scraped data in R to derive insights on customer behavior, informing strategies that increased the customer retention rate by 9%
+*	Conceptualized and implemented A/B test plans to validate customer hypotheses and understand customer behavior patterns
+
 -----
 <br>
 
