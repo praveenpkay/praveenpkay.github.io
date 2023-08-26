@@ -8,13 +8,27 @@ author_profile: true
 -----
 <img align="left" height="100" width="100" src="../images/malware_detection.png" style="padding-right:15px">
 
+**MoundsView**
+#### June 2023 - Aug 2023 | Minneapolis, USA
+
+-----
+*	Projected a 53% reduction in Customer Acquisition Cost and uncovered factors/KPIs that propel premium subscriptions.
+*	Developed a predictive model that identifies highly likely Premium users among Freemium users through class probabilities.
+*	Identified the right evaluation metric that represents model performance through the imbalanced dataset. <br>
+
+Here is the - [Github Repo](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers) | [Technical Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/Freemium%20to%20Premium%20Technical%20Document.pdf) | [Executive Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/XYZ%20-%20Freemium%20to%20Premium%20Deck.pdf)
+
+-----
+
+<img align="left" height="100" width="100" src="../images/malware_detection.png" style="padding-right:15px">
+
 **Predicting Likely Subscribers For Music Website**
 #### June 2023 - Aug 2023 | Minneapolis, USA
 
 -----
+*	Projected a 53% reduction in Customer Acquisition Cost and uncovered factors/KPIs that propel premium subscriptions.
 *	Developed a predictive model that identifies highly likely Premium users among Freemium users through class probabilities.
-*	Identified the right evaluation metric that represents model performance through the imbalanced dataset.
-*	Projected a 53% reduction in Customer Acquisition Cost and uncovered factors/KPIs that propel premium subscriptions. <br>
+*	Identified the right evaluation metric that represents model performance through the imbalanced dataset. <br>
 
 Here is the - [Github Repo](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers) | [Technical Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/Freemium%20to%20Premium%20Technical%20Document.pdf) | [Executive Summary](https://github.com/praveenpkay/Freemium-To-Premium-Predict-Likely-Subscribers/blob/main/XYZ%20-%20Freemium%20to%20Premium%20Deck.pdf)
 
