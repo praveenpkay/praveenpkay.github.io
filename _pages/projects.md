@@ -39,11 +39,11 @@ Here is the - [Github Repository](https://github.com/praveenpkay/Freemium-To-Pre
 #### June 2023 - Aug 2023 | Minneapolis, USA
 
 -----
-*	Analyzed consumer behaviors through their annual spending patterns across channels to tailor strategies to satisfy consumer demand.
 *	Formulated a four segment solution that identified opportunity to increase revenue in retail channel by <strong>2.3M </strong>.
+*	Analyzed consumer behaviors through their annual spending patterns across channels to tailor strategies to satisfy consumer demand.
 *	Identified segments of customers like Fresh & Frozen Shoppers, Everyday Shoppers, High potential Shoppers and other small scale shoppers by their purchase behavior. <br>
 
-Here is the - [Github Repository](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor) | [Technical Summary](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor/blob/main/Technical%20Document.pdf) | [Executive Summary](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor/blob/main/Executive%20Summary.pdf)
+| [Github Repository](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor) | [Technical Summary](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor/blob/main/Technical%20Document.pdf) | [Executive Summary](https://github.com/praveenpkay/Customer-Segmentation-Wholesale-distributor/blob/main/Executive%20Summary.pdf)
 
 -----
 <img align="left" height="100" width="100" src="../images/sales.jpg" style="padding-right:15px">
@@ -55,7 +55,7 @@ Here is the - [Github Repository](https://github.com/praveenpkay/Customer-Segmen
 *	Created ETL operations to stage and pipeline 250,000 transactions of sales data into a data warehouse using SQL Server
 *	Discovered key data-driven insights to enhance product sales and profits using Tableau visualizations and Dashboards <br>
 
-Here is the - [Github Repo](https://github.com/aayush1909/Business-Intelligence-Systems)
+Here's the | [Github Repo](https://github.com/aayush1909/Business-Intelligence-Systems)
 
 -----
 <img align="left" height="100" width="100" src="../images/Rotten.png" style="padding-right:15px">
