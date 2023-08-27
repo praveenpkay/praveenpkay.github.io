@@ -3,11 +3,8 @@ main:
   - title: "Projects"
     url: /projects/ 
     
-  - title: "Extra-Curriculars"
-    url: /extra-curriculars/  
-    
   - title: "Testimonials"
     url: /testimonials/
     
   - title: "CV"
-    url: /files/Praveen_resume.pdf
+    url: /files/Praveen Resume.pdf
