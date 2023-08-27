@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-[Zach Sorenson](https://www.linkedin.com/in/zach-sorenson-141646103/), Consumer Analytics - Pernod Ricard USA
+<strong> [Zach Sorenson](https://www.linkedin.com/in/zach-sorenson-141646103/), Consumer Analytics - Pernod Ricard USA </strong>
 
 "I had the opportunity to work directly with Praveen on a high-profile workstream during his time at LatentView and was always thoroughly impressed by his diligence, analytical capabilities, clarity and professionalism. Praveen's capacity to digest and think through challenges and develop analytically-sound solutions was key to project success. His ability to communicate complex topics in a clear and concise way also ensured project steps were carried out in an efficient manner. On top of this, Praveen was a complete pleasure to work with, always carrying a positive attitude throughout our engagement. Praveen will be a strong asset to any organization / team that he joins and I wish him the best in his future endeavors."
 
