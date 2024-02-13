@@ -10,6 +10,7 @@ redirect_from:
 excerpt_separator: <!--more-->
 ---
 
+
 Hey, thanks for visiting my website. I'm Praveen Kumar G - a (2024) graduate from the [University of Minnesota - Carlson School Of Management](https://carlsonschool.umn.edu/graduate/masters/business-analytics). 
 I'm an analytics consultant with almost two years of experience working in a pure play analytics firm [LatentView Analytics](https://www.latentview.com/) in their Consumer/CPG division.
 <br> <br>
